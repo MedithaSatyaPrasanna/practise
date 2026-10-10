@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("Enter size"))
 arr = list(map(int, input().split()))
 
 max_val = arr[0]
